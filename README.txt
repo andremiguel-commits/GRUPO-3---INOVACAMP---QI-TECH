@@ -1,7 +1,7 @@
 Olá avaliadores da QI TECH!
 
 Esta pasta .zip conta com 7 arquivos, sendo:
-1 Bloco de notas, 2 pastas zip com arquivos em C++ e 4 arquivos PDF;
+1 arquivo .txt, 2 pastas .zip com arquivos em C++ e 4 arquivos .PDF;
 
 
 
@@ -20,4 +20,5 @@ GRUPO 3
 
 André Ricardo Miguel Filho
 Arthur Oliveira Pacheco
+
 Felipe Lourenço Vieira
